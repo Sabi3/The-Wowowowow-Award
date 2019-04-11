@@ -1,0 +1,33 @@
+img {
+    width:700px;
+    height:500px;
+    padding-left:750px;
+}   
+body {
+    background-image:url("https://wallpapercave.com/wp/Eiq5bQH.jpg");
+}
+.best {
+    text-align:center;
+    font-size:55px;
+    color:yellow;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.artist{
+    text-align:center;
+    font-size:55px;
+    color:red;
+   font-family: 'Handlee', cursive;
+}
+.game{
+    text-align:center;
+    font-size:55px;
+    color:blue;
+   font-family: 'Merienda', cursive;
+}
+.team {
+    text-align:center;
+    font-size:55px;
+    color:purple;
+    font-family: 'Permanent Marker', cursive;
+}
